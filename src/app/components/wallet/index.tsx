@@ -1,5 +1,3 @@
-import React from 'react';
-
 export default function Wallet() {
   return (
     <div className="flex gap-10 justify-center p-10 flex-wrap">
