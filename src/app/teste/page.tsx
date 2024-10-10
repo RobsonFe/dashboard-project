@@ -1,9 +1,3 @@
-import Wallet from '../components/wallet';
-
 export default function Teste() {
-  return (
-    <div className="w-full">
-      <Wallet />
-    </div>
-  );
+  return <div className="w-full h-full"></div>;
 }
