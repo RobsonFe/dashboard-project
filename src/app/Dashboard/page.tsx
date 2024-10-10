@@ -1,7 +1,12 @@
+import Wallet from '../components/cards/wallet';
+
 export default function Dashboard() {
-    return (
-        <div>
-            <h1>Dashboard</h1>
-        </div>
-    )
+  return (
+    <div className="w-full">
+      <h1 className="font-bold text-pretty text-3xl border-b-orange-500 p-10">
+        Dashboard
+      </h1>
+      <Wallet />
+    </div>
+  );
 }
