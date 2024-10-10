@@ -6,7 +6,9 @@
 - Projeto base para outros projetos.
 - Mobile First (Responsivo).
 - Atualizados e configurados com as bibliotecas atuais (2024).
-- Projeto inspirado no projeto feito em React em 2020 <br/> [Link do Projeto Original]("https://github.com/orodrigogo/minha-carteira-dashboard")
+- Projeto inspirado no projeto feito em React em 2020
+  <br/>
+[Link do Projeto Original](https://github.com/orodrigogo/minha-carteira-dashboard)
 
 ## Ferramentas utilizadas
 
@@ -25,4 +27,4 @@ Nesse projeto irei usar um padrão de projeto diferente, separando a responsabil
 
 ---
 
-### **Autor do Projeto** : [Robson Ferreira]("https://github.com/RobsonFe").
+### **Autor do Projeto** : [Robson Ferreira](https://github.com/RobsonFe).
